@@ -1,4 +1,4 @@
-# Caesar Cipher ASCII
+# Caesar Cipher 
 
 This is a Python program that implements a **Caesar Cipher** a simple substitution cipher where each letter in the plain text is shifted a certain number of places down or up the alphabet.  
 What makes this version more unique is its embedded **ASCII art banner**, giving it a retro hacker vibe!
